@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @nathanmachado
 - 👀 I’m interested in Data Science for Agriculture. 
-- 🌱 I’m currently learning Cuba Platform Framework and React. 
 - 💞️ I’m looking to collaborate on any project related to agriculture inovation and technology. 
 - 📫 How to reach me: nathanmachado@gmail.com. 
 
